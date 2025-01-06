@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rezayazdaniar
 - 👀 I’m interested in Python and ai
-- 🌱 I’m currently learning python, sql and power bi 
+- 🌱 I’m currently learning python, sql and Machin Lerning
 - 💞️ I am looking for cooperation to increase my programming skills
 - 📫
 - 😄 
